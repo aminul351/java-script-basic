@@ -10,3 +10,4 @@ console.log(arrayMax)
 const total = (a,b,c) => a + b + c
 const digits = [8,9,10,11]
 console.log(total(...digits))
+
